@@ -47,7 +47,7 @@ Currently, two official plugins are available:
 
 ### Clone the repo:
 
-git clone [https://github.com/yourusername/real-estate-website.git](https://github.com/ThanmaiPuppala/Real-Estate.git)
+git clone [https://github.com/ThanmaiPuppala/Real-Estate.git]
 
 ### Install dependencies:
 
