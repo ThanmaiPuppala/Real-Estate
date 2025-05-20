@@ -14,7 +14,11 @@ Currently, two official plugins are available:
 
 ## Table of Contents
 
+ -[Real Estate](#real-estate-website)
  - [Features](#features)
+ - [Technologies Used](#technologies-used)
+ - [Installation](#installation)
+ - [License](#license)
  
 
  ## Features:
@@ -39,7 +43,7 @@ Currently, two official plugins are available:
 
 ✨ Framer Motion – Fluid animations
 
-## Setup & Run
+## Installation
 
 ### Clone the repo:
 
@@ -56,3 +60,8 @@ npm run dev
 ### Build for production:
 
 npm run build
+
+### License
+
+This project is licensed under the MIT License.
+Feel Free to customise it further based on specific details and requirements of your projects
