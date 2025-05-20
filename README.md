@@ -10,7 +10,8 @@ Currently, two official plugins are available:
 # Real Estate Website
 🚀 Modern Real Estate Platform built with Vite, React.js, Tailwind CSS, and Framer Motion for smooth animations.
 
-<img width="1437" alt="Screenshot 2025-05-20 at 3 15 54 PM" src="https://github.com/user-attachments/assets/6f18513c-dfc4-462f-a4f8-661d4902999f" />
+<img width="1408" alt="Screenshot 2025-05-20 at 4 06 27 PM" src="https://github.com/user-attachments/assets/5b1b1b76-cf02-4240-932c-364412923650" />
+
 
 ## Table of Contents
 
